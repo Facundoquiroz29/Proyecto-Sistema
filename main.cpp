@@ -11,6 +11,7 @@ int main()
     cout << "Hostname: " << info.getHostname() << endl;
     cout << "CPU: " << info.getCPU() << endl;
     cout << "RAM: " << info.getRAM() << endl;
+    cout << endl;
 
     return 0;
 }
